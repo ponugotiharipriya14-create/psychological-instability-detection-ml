@@ -1,0 +1,9 @@
+sleep_hours,stress_level,social_activity,mood,label
+4,9,1,2,unstable
+6,7,2,3,unstable
+8,3,5,8,stable
+7,4,6,7,stable
+5,8,2,3,unstable
+9,2,7,9,stable
+6,6,3,5,unstable
+8,3,6,8,stable
